@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-mutt1917" alt="r-mutt1917" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/r_mutt22" target="blank"><img src="https://img.shields.io/twitter/follow/r_mutt22?logo=twitter&style=for-the-badge" alt="r_mutt22" /></a> </p>
-
 - 🔭 I’m currently working on [Pet Care](https://github.com/R-Mutt22/equipo5-petcare-frontend)
 
 - 👯 I’m looking to collaborate on [SkillLink](https://github.com/R-Mutt22/alumnithon-bad-batch-backend)
